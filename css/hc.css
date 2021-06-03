@@ -46,14 +46,14 @@ a:active {
   height: 638px;
   background-color: #ccc;
   position: relative;
-  background-image: url('.../img/hc-hero.jpg');
+  background-image: url('../img/hc-hero.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
 }
 @media only screen and (max-width: 969px) {
   .hero {
-    background-image: url('.../img/hc-hero.jpg');
+    background-image: url('../img/hc-hero.jpg');
   }
 }
 .hero .copybox {
